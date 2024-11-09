@@ -1,0 +1,2 @@
+C:\Users\garba\AppData\Local\Temporary Projects\REPOSITORIO\bin\Debug\REPOSITORIO.exe.config
+C:\Users\garba\Documents\Visual Studio 2012\Projects\REPOSITORIO\REPOSITORIO\bin\Debug\REPOSITORIO.exe.config
