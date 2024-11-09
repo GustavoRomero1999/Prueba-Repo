@@ -1,2 +1,10 @@
 C:\Users\garba\AppData\Local\Temporary Projects\REPOSITORIO\bin\Debug\REPOSITORIO.exe.config
 C:\Users\garba\Documents\Visual Studio 2012\Projects\REPOSITORIO\REPOSITORIO\bin\Debug\REPOSITORIO.exe.config
+C:\Users\garba\Documents\Visual Studio 2012\Projects\REPOSITORIO\REPOSITORIO\bin\Debug\REPOSITORIO.exe
+C:\Users\garba\Documents\Visual Studio 2012\Projects\REPOSITORIO\REPOSITORIO\bin\Debug\REPOSITORIO.pdb
+C:\Users\garba\Documents\Visual Studio 2012\Projects\REPOSITORIO\REPOSITORIO\bin\Debug\REPOSITORIO.xml
+C:\Users\garba\Documents\Visual Studio 2012\Projects\REPOSITORIO\REPOSITORIO\obj\Debug\REPOSITORIO.Resources.resources
+C:\Users\garba\Documents\Visual Studio 2012\Projects\REPOSITORIO\REPOSITORIO\obj\Debug\REPOSITORIO.vbproj.GenerateResource.Cache
+C:\Users\garba\Documents\Visual Studio 2012\Projects\REPOSITORIO\REPOSITORIO\obj\Debug\REPOSITORIO.exe
+C:\Users\garba\Documents\Visual Studio 2012\Projects\REPOSITORIO\REPOSITORIO\obj\Debug\REPOSITORIO.xml
+C:\Users\garba\Documents\Visual Studio 2012\Projects\REPOSITORIO\REPOSITORIO\obj\Debug\REPOSITORIO.pdb
