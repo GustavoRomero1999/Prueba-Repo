@@ -23,16 +23,25 @@ Partial Class FRMPRINCIPAL
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Me.BTNACEPTAR = New System.Windows.Forms.Button()
+        Me.TextBox1 = New System.Windows.Forms.TextBox()
         Me.SuspendLayout()
         '
         'BTNACEPTAR
         '
-        Me.BTNACEPTAR.Location = New System.Drawing.Point(44, 119)
+        Me.BTNACEPTAR.Location = New System.Drawing.Point(204, 161)
         Me.BTNACEPTAR.Name = "BTNACEPTAR"
         Me.BTNACEPTAR.Size = New System.Drawing.Size(98, 54)
         Me.BTNACEPTAR.TabIndex = 0
         Me.BTNACEPTAR.Text = "ACEPTAR"
         Me.BTNACEPTAR.UseVisualStyleBackColor = True
+        '
+        'TextBox1
+        '
+        Me.TextBox1.Location = New System.Drawing.Point(134, 65)
+        Me.TextBox1.Name = "TextBox1"
+        Me.TextBox1.Size = New System.Drawing.Size(254, 20)
+        Me.TextBox1.TabIndex = 1
+        Me.TextBox1.Text = "HOLA  GIT"
         '
         'FRMPRINCIPAL
         '
@@ -40,12 +49,15 @@ Partial Class FRMPRINCIPAL
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(192, Byte), Integer))
         Me.ClientSize = New System.Drawing.Size(520, 395)
+        Me.Controls.Add(Me.TextBox1)
         Me.Controls.Add(Me.BTNACEPTAR)
         Me.Name = "FRMPRINCIPAL"
-        Me.Text = "Form1"
+        Me.Text = "PRINCIPAL"
         Me.ResumeLayout(False)
+        Me.PerformLayout()
 
     End Sub
     Friend WithEvents BTNACEPTAR As System.Windows.Forms.Button
+    Friend WithEvents TextBox1 As System.Windows.Forms.TextBox
 
 End Class

@@ -8,3 +8,4 @@ C:\Users\garba\Documents\Visual Studio 2012\Projects\REPOSITORIO\REPOSITORIO\obj
 C:\Users\garba\Documents\Visual Studio 2012\Projects\REPOSITORIO\REPOSITORIO\obj\Debug\REPOSITORIO.exe
 C:\Users\garba\Documents\Visual Studio 2012\Projects\REPOSITORIO\REPOSITORIO\obj\Debug\REPOSITORIO.xml
 C:\Users\garba\Documents\Visual Studio 2012\Projects\REPOSITORIO\REPOSITORIO\obj\Debug\REPOSITORIO.pdb
+C:\Users\garba\Documents\Visual Studio 2012\Projects\REPOSITORIO\REPOSITORIO\obj\Debug\REPOSITORIO.FRMPRINCIPAL.resources
