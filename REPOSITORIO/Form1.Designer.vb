@@ -24,6 +24,7 @@ Partial Class FRMPRINCIPAL
     Private Sub InitializeComponent()
         Me.BTNACEPTAR = New System.Windows.Forms.Button()
         Me.TextBox1 = New System.Windows.Forms.TextBox()
+        Me.BTNBOTRRAR = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'BTNACEPTAR
@@ -41,7 +42,15 @@ Partial Class FRMPRINCIPAL
         Me.TextBox1.Name = "TextBox1"
         Me.TextBox1.Size = New System.Drawing.Size(254, 20)
         Me.TextBox1.TabIndex = 1
-        Me.TextBox1.Text = "HOLA  GIT"
+        '
+        'BTNBOTRRAR
+        '
+        Me.BTNBOTRRAR.Location = New System.Drawing.Point(204, 251)
+        Me.BTNBOTRRAR.Name = "BTNBOTRRAR"
+        Me.BTNBOTRRAR.Size = New System.Drawing.Size(98, 54)
+        Me.BTNBOTRRAR.TabIndex = 2
+        Me.BTNBOTRRAR.Text = "BORRAR"
+        Me.BTNBOTRRAR.UseVisualStyleBackColor = True
         '
         'FRMPRINCIPAL
         '
@@ -49,6 +58,7 @@ Partial Class FRMPRINCIPAL
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(192, Byte), Integer))
         Me.ClientSize = New System.Drawing.Size(520, 395)
+        Me.Controls.Add(Me.BTNBOTRRAR)
         Me.Controls.Add(Me.TextBox1)
         Me.Controls.Add(Me.BTNACEPTAR)
         Me.Name = "FRMPRINCIPAL"
@@ -59,5 +69,6 @@ Partial Class FRMPRINCIPAL
     End Sub
     Friend WithEvents BTNACEPTAR As System.Windows.Forms.Button
     Friend WithEvents TextBox1 As System.Windows.Forms.TextBox
+    Friend WithEvents BTNBOTRRAR As System.Windows.Forms.Button
 
 End Class
